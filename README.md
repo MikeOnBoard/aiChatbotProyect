@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Preview](https://github.com/MikeOnBoard/aiChatbotProyect/blob/main/readme_source/chatbot_preview.png)
+
 ## Getting Started
 
 First, run the development server:
